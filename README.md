@@ -1,4 +1,4 @@
-[中文版](README.zh-cn.md)
+
 
 # Business Background
 
